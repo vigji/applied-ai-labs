@@ -1,6 +1,6 @@
 # Applied AI — labs
 
-Notebooks and test files for the labs of the Applied AI course, meant to be opened in Google Colab.
+Notebooks for the labs of the Applied AI course, meant to be opened in Google Colab.
 
 | Day | Lab | Open |
 |---|---|---|
